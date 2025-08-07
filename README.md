@@ -16,7 +16,7 @@
 - 💬 Ask me about **React**, **Node.js**, **APIs**, or anything **AI-related**  
 - ⚡ Fun fact: I believe coffee, creativity, and clean code can change the world  
 - 😄 Pronouns: he/him  
-- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/tirthbabariya)** or **[tirthbabariya@email.com](mailto:tirthbabariya@email.com)**  
+- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/tirthbabariya)** or **[tirthbabariya@email.com](mailto:tirthbabariy454a@gmail.com)**  
 
 ---
 
@@ -45,7 +45,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   &nbsp;
-  <a href="mailto:tirthbabariya@email.com" target="_blank">
+  <a href="mailto:tirthbabariya454@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
   &nbsp;
