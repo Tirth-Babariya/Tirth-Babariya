@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">
+  Hey there! I'm <span style="color:#7FFFD4;">Tirth Babariya</span> 👋
+</h1>
 
-<!--
-**Tirth-Babariya/Tirth-Babariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&pause=1000&color=7FFFD4&center=true&vCenter=true&width=500&lines=Crafting+impactful+web+experiences;Frontend+%7C+AI+enthusiast+%7C+Code+Storyteller;Let's+build+something+amazing+!" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+- 🔭 I’m currently building **TripSense AI** – an intelligent travel planner Telegram bot  
+- 🌱 Currently learning **AI integrations + System Design**  
+- 👯 Looking to collaborate on **open-source AI/Web projects**  
+- 💬 Ask me about **React**, **Node.js**, **APIs**, or anything **AI-related**  
+- ⚡ Fun fact: I believe coffee, creativity, and clean code can change the world  
+- 😄 Pronouns: he/him  
+- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/tirthbabariya)** or **[tirthbabariya@email.com](mailto:tirthbabariya@email.com)**  
+
+---
+
+### 💼 Tech Stack (My Playground)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,js,react,ts,nodejs,express,mongodb,python,php,figma,vscode,github,mysql,css,bash&perline=6" />
+</p>
+
+---
+
+### 🌟 Highlights & Goals
+
+- 🚀 Creating tools that blend **intelligence + UX design**
+- 🧠 Passionate about **AI-powered productivity systems**
+- 🎯 On a mission to **ship meaningful projects**
+- 🔗 Currently learning **AI + Web fullstack pipelines**
+- ✨ Mantra: “**Simplicity with power.**”
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tirthbabariya" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  &nbsp;
+  <a href="mailto:tirthbabariya@email.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://tirthbabariya.dev" target="_blank">
+    <img src="https://img.shields.io/badge/My Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+> 🧩 *“Minimal yet impactful. Clean code, creative mind, and caffeinated soul ☕”*
