@@ -49,7 +49,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
   &nbsp;
-  <a href="https://tirthbabariya.dev" target="_blank">
+  <a href="https://tirthbabariya.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/My Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
   </a>
 </p>
