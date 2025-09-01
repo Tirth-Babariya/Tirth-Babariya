@@ -23,7 +23,7 @@
 ### 💼 Tech Stack (My Playground)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,js,react,ts,nodejs,express,mongodb,python,php,figma,vscode,github,mysql,css,bash&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,php,figma,vscode,github,mysql,fastapi,redis&perline=6" />
 </p>
 
 ---
@@ -50,7 +50,7 @@
   </a>
   &nbsp;
   <a href="https://tirthbabariya.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/My Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/My Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" width=175px />
   </a>
 </p>
 
